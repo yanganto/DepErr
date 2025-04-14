@@ -20,7 +20,7 @@ suins = { git = "https://github.com/MystenLabs/suins-contracts.git", subdir = "p
 # Override = { local = "../conflicting/version", override = true }
 
 [addresses]
-deperr = "0x0"
+deperr = "0xFFFF"
 
 # Named addresses will be accessible in Move as `@name`. They're also exported:
 # for example, `std = "0x1"` is exported by the Standard Library.
